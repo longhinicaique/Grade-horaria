@@ -1,0 +1,7 @@
+pip install pandas
+pip install fpdf
+pip install matplotlib
+pip install openpyxl
+pip install gspread oauth2client
+pip install flask
+
